@@ -10,7 +10,7 @@ Team Members :
 4. Sara Romany
 5. Kerollos Gamal
 
-BRD : https://github.com/kerollosgamal97/SE2018G12/blob/master/SE2018G12_BRD.pdf
-SRS : https://github.com/kerollosgamal97/SE2018G12/blob/master/SRS/SE2018G12_SRS%20V(2.1).pdf
+. BRD : https://github.com/kerollosgamal97/SE2018G12/blob/master/SE2018G12_BRD.pdf
+. SRS : https://github.com/kerollosgamal97/SE2018G12/blob/master/SRS/SE2018G12_SRS%20V(2.1).pdf
 
-Our website : http://se2018g12-assignment1.epizy.com/index.php
+Our website : http://eg-fashion.epizy.com/?i=1
