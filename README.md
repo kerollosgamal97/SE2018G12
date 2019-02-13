@@ -6,8 +6,11 @@ Team Members :
 
 1. Abanoub Entesar
 2. Ebram michel
-3. Sara Romany
-4. Ramez Magdy
+3. Ramez Magdy
+4. Sara Romany
 5. Kerollos Gamal
+
+BRD : https://github.com/kerollosgamal97/SE2018G12/blob/master/SE2018G12_BRD.pdf
+SRS : https://github.com/kerollosgamal97/SE2018G12/blob/master/SRS/SE2018G12_SRS%20V(2.1).pdf
 
 Our website : http://se2018g12-assignment1.epizy.com/index.php
