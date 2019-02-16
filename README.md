@@ -16,5 +16,6 @@ check list:
 2. SRS : https://github.com/kerollosgamal97/SE2018G12/blob/master/SRS/SE2018G12_SRS%20V(2.1).pdf
 3. final project (.rar) : https://github.com/kerollosgamal97/SE2018G12/blob/master/Final%20Project.rar
 4. final project : https://github.com/kerollosgamal97/SE2018G12/tree/master/Final%20Project
+5. Site Guide video : https://www.youtube.com/watch?v=tIlPG2B91CE&feature=youtu.be
 
 Our website : http://eg-fashion.epizy.com/?i=1
